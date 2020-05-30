@@ -1,0 +1,127 @@
+/* body {
+    margin: 0 17% 0 17%;
+    background-color: #fff;
+} */
+main{
+width: 80%;
+margin:2% 0 0 10%;
+}
+
+
+h2 {
+    font-weight: bold;
+    font-size: 36px;
+}
+
+
+/*Start Code: */
+header{
+       margin: 0;
+       padding: 10px 10px 80px 10px;
+       background-color: #333333;
+
+}
+header ul{
+    list-style-type: none;
+    margin-top: -2%;
+    padding: 0;
+
+
+
+}
+
+header ul li{
+    float: left;
+
+}
+
+
+header img{
+    float: left;
+    margin: 0 33px 0 17%;
+}
+
+li a {
+    display: block;
+    text-align: center;
+    padding: 30px;
+    text-decoration: none;
+    color: #f5f5f5;
+
+  }
+
+  /* main*/
+
+  main img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 82%;
+    height: 80%;
+    margin-top: 4%;
+  }
+  /* div{
+    margin:2% 0 0 10%;
+  } */
+  section img{
+    float: left;
+    width: 25%;
+    height: 10;
+    margin: 4% -63px 0 9%;
+    /* width: 27.5%;
+    padding-right: 3%;
+    right: 1%; */
+
+    /* width: 200px;
+    height: 150px;
+    margin-left: 5cm; */
+/* 
+    float: left;
+    width: 33.33%;
+    padding: 5px; */
+    
+    /* margin-left: 85px; */
+  }
+
+  article{
+      margin-top: 5%;
+  }
+  article img{
+    margin: 0 -13px 0 9%;
+    width: 44.25%;
+    float: left;
+  }
+
+  article p{
+      overflow: hidden;
+      height: 10%;
+      width: 40%;
+      margin: 1% 0 1% 3%;
+    display:inline-block
+    
+
+  }
+
+  article p:hover{
+      overflow: scroll;
+}
+
+article h2{
+    margin: 0 0 0 3%;
+    display:inline-block
+}
+
+article button{
+    margin: 0 0 0 3%;
+    height: 36px;
+    width: 14%;
+    background-color: black;
+    color: blanchedalmond;
+}
+
+footer{
+    background-color: #333333;
+    height: 70px;
+    width: 100%;
+    margin-top: 3%;
+}
